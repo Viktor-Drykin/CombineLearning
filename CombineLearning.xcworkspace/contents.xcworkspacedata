@@ -22,4 +22,10 @@
    <FileRef
       location = "group:SubscribeOn.playground">
    </FileRef>
+   <FileRef
+      location = "group:/Users/viktordrykin/Documents/Code/My/CombineLearning/Subjects.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MultiplePublisher.playground">
+   </FileRef>
 </Workspace>
