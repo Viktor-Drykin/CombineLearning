@@ -28,4 +28,10 @@
    <FileRef
       location = "group:MultiplePublisher.playground">
    </FileRef>
+   <FileRef
+      location = "group:/Users/viktordrykin/Documents/Code/My/CombineLearning/SwiftUIOperatorsExample.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/viktordrykin/Documents/Code/My/CombineLearning/SwiftUINestedStreamExample.playground">
+   </FileRef>
 </Workspace>
